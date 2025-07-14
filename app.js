@@ -1,0 +1,1 @@
+console.log('Cheapr Wallet Admin Panel Loaded');
