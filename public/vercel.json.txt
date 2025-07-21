@@ -1,0 +1,10 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cheapr Wallet Admin</title>
+  </head>
+  <body>
+    <h1>Welcome to Cheapr Wallet Admin Panel</h1>
+    <p>This is your test deployment.</p>
+  </body>
+</html>
